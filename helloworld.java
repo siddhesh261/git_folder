@@ -3,7 +3,7 @@ public class helloworld {
 
         System.out.println("Jenkins is awesome");
         System.out.println("Jenkins is awesome");
-        System.out.println("Jenkins");
+        System.out.println("Jekins");
 
     }
 }
